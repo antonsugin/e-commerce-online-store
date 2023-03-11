@@ -2,4 +2,11 @@
   background-color: aquamarine;
   width: 150px;
   height: 150px;
+}
+.card__img {
+  width: 100%;
+}
+
+.name {
+  color: white;
 }/*# sourceMappingURL=card.css.map */

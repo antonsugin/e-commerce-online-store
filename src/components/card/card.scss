@@ -2,4 +2,13 @@
     background-color: aquamarine;
     width: 150px;
     height: 150px;
+    // margin-top: 1rem;
+
+    &__img {
+        width: 100%;
+    }
+}
+
+.name {
+    color: white;
 }
