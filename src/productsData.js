@@ -11,7 +11,7 @@ export const data = {
                 id: "1",
                 personName: "",
                 personReview: "",
-                mer: "???????"
+                mer: "????????"
             }
         },
         vetiverData: {
