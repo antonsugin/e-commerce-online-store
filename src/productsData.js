@@ -9,7 +9,7 @@ export const data = {
             details: "lorem jnefd jnwief jnwienf",
             reviewsArray: {
                 id: "1",
-                personName: "1",
+                personName: "jhduv",
                 personReview: "",
                 mer: ""
             }
