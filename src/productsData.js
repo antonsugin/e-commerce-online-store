@@ -10,7 +10,7 @@ export const data = {
             reviewsArray: {
                 id: "1",
                 personName: "1",
-                personReview: "",
+                personReview: "dsfvgsf",
                 mer: ""
             }
         },
